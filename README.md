@@ -5,4 +5,8 @@ The ingredients and steps are displayed using RecyclerViews. Exoplayer is used t
 Fragments are used to create a responsive design that works on phones and tablets. 
 
 # Screenshots
+<img src="https://user-images.githubusercontent.com/73894048/152181496-3084ccdb-b7ed-40d1-a2be-117ece49b79d.jpg" width="250">
+<img src="https://user-images.githubusercontent.com/73894048/152181513-cf8b9be1-2795-4ca1-b6f9-285b93b907bb.jpg" width="250">
+<img src="https://user-images.githubusercontent.com/73894048/152181528-e4fab9dc-bcc7-4d13-bd22-a0a5ff4a9f13.jpg" width="250">
+<img src="https://user-images.githubusercontent.com/73894048/152181536-b919fd2b-0b72-48df-b801-406b6571e07f.jpg" width="250">
 
