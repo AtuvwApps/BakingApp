@@ -10,3 +10,8 @@ Fragments are used to create a responsive design that works on phones and tablet
 <img src="https://user-images.githubusercontent.com/73894048/152181528-e4fab9dc-bcc7-4d13-bd22-a0a5ff4a9f13.jpg" width="250">
 <img src="https://user-images.githubusercontent.com/73894048/152181536-b919fd2b-0b72-48df-b801-406b6571e07f.jpg" width="250">
 
+# Video
+
+
+https://user-images.githubusercontent.com/73894048/152182151-a088c888-6337-4e42-a769-19d9fc5b2dbf.mp4
+
